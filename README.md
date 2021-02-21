@@ -1,3 +1,9 @@
+# Important Note
+
+This repository is for visibility only and will not be updated. 
+
+Please view the [main repository of CV-Inspector](https://github.com/UCI-Networking-Group/cv-inspector).
+
 # CV-Inspector
 Given a set of sites, CV-Inspector will automate the crawling, data collection, differential analysis, and labeling of the sites. 
 
